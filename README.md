@@ -1,0 +1,1 @@
+# FIBARO-wake-up-devices-script
